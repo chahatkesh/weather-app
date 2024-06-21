@@ -82,3 +82,13 @@ body {
   font-size: 28px;
   margin-top: -6px;
 }
+.weather {
+  display: none;
+}
+.error {
+  font-weight: 500;
+  font-size: 14px;
+  padding: 14px;
+  text-align: left;
+  display: none;
+}
